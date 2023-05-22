@@ -41,3 +41,10 @@ div#botoes a{
 h1{
     color:#39ff14;
 }
+a#cancelar{
+    padding: 5px 115px 5px 115px;
+    border: 1px solid #39ff14;
+    color: #39ff14;
+    background-color: black;
+    text-decoration: none;
+}
